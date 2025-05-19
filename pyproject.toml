@@ -282,3 +282,4 @@ skip_install = true
 commands = [["uv", "lock", {replace = "posargs", default = ["-U"], extend = true}]]
 
 # Zmiana Test 1 od Marcina
+# zmiana wiktor
